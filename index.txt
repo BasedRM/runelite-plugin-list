@@ -1,3 +1,44 @@
 Anti Drag
 Camera
 Grand Exchange
+Ground Items
+Door Kicker
+Entity Hider
+Fixed Mode Hide Chat
+Login Screen
+Menu Entry Swapper
+Menu Swapper Extended
+Stretched Mode
+Bank
+117 HD
+Minimap
+Quest Helper
+Monster Menu HP
+Custom Menu Swaps
+NPC Indicators
+Instance Map
+Player-owned House
+Player Indicators
+Inventory Setups
+Better NPC Highlight
+117 HD
+Client Resizer
+Monster HP Percentage
+Player Outline
+Hub Party Panel
+Large Logout
+Resizable Chat
+Resource packs
+Guest Indicators
+Tile Packs
+Runecrafting Utilities
+Collapsible Modern Chat
+Item Charges Improved
+Inventory Grid
+Mouse Tooltips
+Skybox
+C Engineer: Completed
+Instant Inventory
+Camera Smoothing
+3D Weather
+Picture In Picture
