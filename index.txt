@@ -42,3 +42,4 @@ Instant Inventory
 Camera Smoothing
 3D Weather
 Picture In Picture
+Bank Highlighter
