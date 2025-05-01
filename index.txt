@@ -40,3 +40,8 @@ Camera Smoothing
 3D Weather
 Picture In Picture
 Bank Highlighter
+Custom Left Click Drop
+Inner Zoom
+Zoom Extender
+NPC Accessibility Tagger
+Interface Styles
