@@ -43,5 +43,6 @@ Bank Highlighter
 Custom Left Click Drop
 Inner Zoom
 Zoom Extender
+Bank Item Stats Toggle
 NPC Accessibility Tagger
 Interface Styles
