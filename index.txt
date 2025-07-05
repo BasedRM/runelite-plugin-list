@@ -46,3 +46,4 @@ Zoom Extender
 Bank Item Stats Toggle
 NPC Accessibility Tagger
 Interface Styles
+Spellbook
