@@ -48,3 +48,4 @@ NPC Accessibility Tagger
 Interface Styles
 Spellbook
 Key Remapping
+Custom Left Click Drop
