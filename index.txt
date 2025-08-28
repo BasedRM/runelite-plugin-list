@@ -49,3 +49,4 @@ Interface Styles
 Spellbook
 Key Remapping
 Custom Left Click Drop
+Bank Tag Layouts
