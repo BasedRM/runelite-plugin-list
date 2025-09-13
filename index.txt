@@ -50,3 +50,6 @@ Spellbook
 Key Remapping
 Custom Left Click Drop
 Bank Tag Layouts
+Ground Object Hider
+Not Empty
+Better Teleport Menu
