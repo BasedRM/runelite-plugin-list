@@ -9,7 +9,6 @@ Menu Entry Swapper
 Menu Swapper Extended
 Stretched Mode
 Bank
-Minimap
 Quest Helper
 Monster Menu HP
 Custom Menu Swaps
